@@ -79,6 +79,5 @@ theme: yilia
 deploy:
   type: git
   repo:
-    github: git@github.com:ljf-cnyali/ljfcnyali.github.io.git,master
     coding: https://git.coding.net/ljfcnyali/ljfcnyali.coding.me.git
   branch: master
