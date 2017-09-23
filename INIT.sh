@@ -1,6 +1,7 @@
 #!/bin/bash
 cd
 cd blog
+sudo rm .git
 git init
 git add .
 git commit -m "CHRITOPHER"
